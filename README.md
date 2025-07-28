@@ -27,8 +27,5 @@ Simply open `Index.html` in any web browser to view the blog post.
 
 ## Author
 
-Michael Obuma Reporting
+Michael Obuma
 
-## License
-
-This project is open source and available under the MIT License.
